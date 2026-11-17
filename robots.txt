@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://aboutxoni.vercel.app/sitemap.xml
